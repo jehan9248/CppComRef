@@ -1,0 +1,3 @@
+/media/jehan/Workshop/CppComRef/cmake-build-debug/CMakeFiles/CppComRef.dir
+/media/jehan/Workshop/CppComRef/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/jehan/Workshop/CppComRef/cmake-build-debug/CMakeFiles/rebuild_cache.dir
